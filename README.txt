@@ -1,4 +1,4 @@
-READ ME
+READ ME 
 Acesta este un document README pentru o aplicație Java pentru platforma de studiu MySQL.
 
 Aplicația este o platformă care permite utilizatorilor să creeze și să gestioneze grupuri de studiu și resurse.
